@@ -1,0 +1,3174 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:artist="http://myMusic.org/music/artist#"
+    xmlns:song="http://myMusic.org/music/song#"
+    xmlns:album="http://myMusic.org/music/album#"
+    xmlns:label="http://myMusic.org/music/label#"
+    xmlns:location="http://myMusic.org/music/location#"
+    xmlns:event="http://myMusic.org/music/event#"
+    xmlns:award="http://myMusic.org/music/award#">
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Adele">
+    <artist:rating_value>4.3</artist:rating_value>
+    <artist:name>Adele</artist:name>
+    <artist:gender>Female</artist:gender>
+    <artist:album rdf:resource="http://myMusic.org/music/album/19"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Adele</rdf:li>
+        <rdf:li>Adele Laurie Blue Adkins</rdf:li>
+        <rdf:li>Adele Erichsen</rdf:li>
+        <rdf:li>A Del</rdf:li>
+        <rdf:li>Adele X</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Tottenham"/>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/New_York"/>
+    <artist:popularity>88</artist:popularity>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>guitar</rdf:li>
+        <rdf:li>drums</rdf:li>
+        <rdf:li>bass</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:life-span_begin>5/5/88</artist:life-span_begin>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY</rdf:li>
+        <rdf:li>http://www.directlyrics.com/adele-artist.html</rdf:li>
+        <rdf:li>https://itunes.apple.com/artist/id262836961</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q23215</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm2233157/</rdf:li>
+        <rdf:li>https://www.facebook.com/adele</rdf:li>
+        <rdf:li>http://adele.com/</rdf:li>
+        <rdf:li>http://www.last.fm/music/Adele</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Adele</rdf:li>
+        <rdf:li>http://lyrics.wikia.com/Adele</rdf:li>
+        <rdf:li>http://www.instagram.com/adele</rdf:li>
+        <rdf:li>http://www.twitter.com/adele</rdf:li>
+        <rdf:li>http://www.facebook.com/adele</rdf:li>
+        <rdf:li>http://www.youtube.com/user/AdeleVEVO</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:type>Person</artist:type>
+    <artist:album rdf:resource="http://myMusic.org/music/album/21"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Columbia"/>
+    <artist:followers>7344241</artist:followers>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/7/74/Adele_-_Live_2009_%284%29_cropped.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/XL"/>
+    <artist:rating_votes-count>7</artist:rating_votes-count>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Taylor_Swift">
+    <artist:rating_value>4.2</artist:rating_value>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Reputation"/>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Reading"/>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>guitar</rdf:li>
+        <rdf:li>banjo</rdf:li>
+        <rdf:li>piano</rdf:li>
+        <rdf:li>ukulele</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:album rdf:resource="http://myMusic.org/music/album/1989"/>
+    <artist:gender>Female</artist:gender>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://bandsintown.com/taylorswift</rdf:li>
+        <rdf:li>http://www.bigmachinelabelgroup.com/artist/taylor-swift/</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q26876</rdf:li>
+        <rdf:li>http://genius.com/artists/Taylor-swift</rdf:li>
+        <rdf:li>http://muzikum.eu/en/122-5024/taylor-swift/lyrics.html</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm2357847/</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0000472102</rdf:li>
+        <rdf:li>http://taylorswift.com/</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/1124645</rdf:li>
+        <rdf:li>https://itunes.apple.com/us/artist/id159260351</rdf:li>
+        <rdf:li>https://myspace.com/taylorswift</rdf:li>
+        <rdf:li>http://www.worldcat.org/identities/lccn-no2007053238/</rdf:li>
+        <rdf:li>http://decoda.com/taylor-swift-lyrics</rdf:li>
+        <rdf:li>http://www.directlyrics.com/taylor-swift-artist.html</rdf:li>
+        <rdf:li>https://rateyourmusic.com/artist/taylor_swift</rdf:li>
+        <rdf:li>http://www.last.fm/music/Taylor+Swift</rdf:li>
+        <rdf:li>http://www.bbc.co.uk/music/artists/20244d07-534f-4eff-b4d4-930878889970</rdf:li>
+        <rdf:li>http://www.metamus.ru/name/3933/</rdf:li>
+        <rdf:li>http://viaf.org/viaf/88580701</rdf:li>
+        <rdf:li>https://twitter.com/taylorswift13</rdf:li>
+        <rdf:li>http://lyrics.wikia.com/Taylor_Swift</rdf:li>
+        <rdf:li>https://www.youtube.com/user/taylorswift</rdf:li>
+        <rdf:li>http://www.setlist.fm/setlists/taylor-swift-3bd6bc5c.html</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/44127</rdf:li>
+        <rdf:li>http://instagram.com/taylorswift/</rdf:li>
+        <rdf:li>https://www.facebook.com/TaylorSwift</rdf:li>
+        <rdf:li>http://weave.me/app/weave.html?Taylor_Swift</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Taylor_Swift</rdf:li>
+        <rdf:li>https://www.youtube.com/user/TaylorSwiftVEVO</rdf:li>
+        <rdf:li>http://twitter.com/taylorswift13</rdf:li>
+        <rdf:li>http://instagram.com/taylorswift</rdf:li>
+        <rdf:li>http://www.facebook.com/TaylorSwift</rdf:li>
+        <rdf:li>http://taylorswift.tumblr.com/</rdf:li>
+        <rdf:li>http://www.youtube.com/user/taylorswift</rdf:li>
+        <rdf:li>http://plus.google.com/+TaylorSwift</rdf:li>
+        <rdf:li>http://www.taylorswift.com/</rdf:li>
+        <rdf:li>http://equipboard.com/pros/taylor-swift</rdf:li>
+        <rdf:li>http://www.youtube.com/user/TaylorSwiftVevo</rdf:li>
+        <rdf:li>http://pinterest.com/taylornation13</rdf:li>
+        <rdf:li>http://twitter.com/taylornation13</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Taylor Alison Swift</rdf:li>
+        <rdf:li>Swift</rdf:li>
+        <rdf:li>T. Swift</rdf:li>
+        <rdf:li>T.S.</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Big_Machine"/>
+    <artist:type>Person</artist:type>
+    <artist:rating_votes-count>9</artist:rating_votes-count>
+    <artist:life-span_begin>12/13/89</artist:life-span_begin>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Red"/>
+    <artist:popularity>96</artist:popularity>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/0/0c/Swift_performs_in_St._Louis%2C_Missouri_in_2013.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <artist:name>Taylor Swift</artist:name>
+    <artist:followers>7671176</artist:followers>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Nashville"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Pitbull">
+    <artist:label rdf:resource="http://myMusic.org/music/label/TVT"/>
+    <artist:rating_votes-count>21</artist:rating_votes-count>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Armando Christian Perez</rdf:li>
+        <rdf:li>Armando Christian P_rez</rdf:li>
+        <rdf:li>Mr. Worldwide</rdf:li>
+        <rdf:li>Pit Bull</rdf:li>
+        <rdf:li>Pitbull Cuban</rdf:li>
+        <rdf:li>Bitbull</rdf:li>
+        <rdf:li>Mr. Worldwide Pitbull</rdf:li>
+        <rdf:li>Pit</rdf:li>
+        <rdf:li>Pitbul</rdf:li>
+        <rdf:li>Pitbull Etc</rdf:li>
+        <rdf:li>Pittpull</rdf:li>
+        <rdf:li>Rose Jackson</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Miami"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Polo_Grounds"/>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Miami"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Dale"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Rebelution"/>
+    <artist:instruments>Vocals</artist:instruments>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Globalization"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Global_Warming"/>
+    <artist:gender>Male</artist:gender>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/c/c2/Pitbull_the_rapper_in_Sydney%2C_Australia_%282012%29.jpg</artist:image_urls>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Meltdown"/>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>http://www.directlyrics.com/pitbull-artist.html</rdf:li>
+        <rdf:li>http://www.last.fm/music/Pitbull</rdf:li>
+        <rdf:li>https://www.youtube.com/user/PitbullMusic</rdf:li>
+        <rdf:li>https://myspace.com/pitbull</rdf:li>
+        <rdf:li>https://www.youtube.com/user/pitbullVEVO</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Pitbull_(rapper)</rdf:li>
+        <rdf:li>http://www.pitbullmusic.com/</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q187844</rdf:li>
+        <rdf:li>http://rateyourmusic.com/artist/pitbull</rdf:li>
+        <rdf:li>https://soundcloud.com/pitbull</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0000350685</rdf:li>
+        <rdf:li>http://instagram.com/pitbull</rdf:li>
+        <rdf:li>https://www.facebook.com/pitbull/</rdf:li>
+        <rdf:li>http://www.pitbullglobal.com/</rdf:li>
+        <rdf:li>http://twitter.com/Pitbull</rdf:li>        
+      </rdf:Bag>
+    </artist:urls>
+    <artist:popularity>88</artist:popularity>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Bad_Boy_Latino"/>
+    <artist:followers>4418550</artist:followers>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Climate_Change"/>
+    <artist:name>Pitbull</artist:name>
+    <artist:life-span_begin>1/15/81</artist:life-span_begin>
+    <artist:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <artist:rating_value>4.65</artist:rating_value>
+    <artist:type>Person</artist:type>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Planet_pit"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Selena_Gomez">
+    <artist:name>Selena Gomez</artist:name>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Revival"/>
+    <artist:popularity>93</artist:popularity>
+    <artist:rating_votes-count>0</artist:rating_votes-count>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Selena_Marie_Gomez</rdf:li>
+        <rdf:li>Salena Gomez</rdf:li>
+        <rdf:li>Selena Gome</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <artist:life-span_begin>7/22/92</artist:life-span_begin>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Grand_Prairie"/>
+    <artist:type>Person</artist:type>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Encino"/>
+    <artist:followers>6674472</artist:followers>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://secondhandsongs.com/artist/46144</rdf:li>
+        <rdf:li>https://instagram.com/selenagomez/</rdf:li>
+        <rdf:li>http://en.wikipedia.org/wiki/Selena_Gomez_%26_the_Scene</rdf:li>
+        <rdf:li>http://en.wikipedia.org/wiki/Selena_Gomez</rdf:li>
+        <rdf:li>http://twitter.com/selenagomez</rdf:li>
+        <rdf:li>http://www.myspace.com/selenagomez</rdf:li>
+        <rdf:li>http://www.youtube.com/SelenaGomezVEVO</rdf:li>
+        <rdf:li>http://www.youtube.com/SelGomez</rdf:li>
+        <rdf:li>http://www.facebook.com/Selena</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Hollywood"/>
+    <artist:rating_value></artist:rating_value>
+    <artist:gender>Female</artist:gender>
+    <artist:album rdf:resource="http://myMusic.org/music/album/For_you"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/8/85/Selena_Gomez_-_Walmart_Soundcheck_Concert.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/UMG"/>
+    <artist:instruments>Vocals</artist:instruments>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Starts_Dancep"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Ed_Sheeran">
+    <artist:album rdf:resource="http://myMusic.org/music/album/X"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/5"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/+"/>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>E. Sheeran</rdf:li>
+        <rdf:li>EdSheeran</rdf:li>
+        <rdf:li>Edward Christopher Sheeran</rdf:li>
+        <rdf:li>Edward Sheeran</rdf:li>
+        <rdf:li>Sheeran</rdf:li>
+        <rdf:li>Sheeran Ed</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:popularity>99</artist:popularity>
+    <artist:followers>13529541</artist:followers>
+    <artist:type>Person</artist:type>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Framlingham"/>
+    <artist:rating_votes-count>17</artist:rating_votes-count>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>acoustic</rdf:li>
+        <rdf:li>guitar</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Elektra"/>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://www.facebook.com/EdSheeranMusic</rdf:li>
+        <rdf:li>http://www.bbc.co.uk/music/artists/b8a7c51f-362c-4dcb-a259-bc6e0095f0a6</rdf:li>
+        <rdf:li>http://www.directlyrics.com/ed-sheeran-artist.html</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/2184482</rdf:li>
+        <rdf:li>http://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V</rdf:li>
+        <rdf:li>https://www.youtube.com/user/EdSheeran</rdf:li>
+        <rdf:li>http://muzikum.eu/en/122-10957/ed-sheeran/lyrics.html</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q47447</rdf:li>
+        <rdf:li>https://www.setlist.fm/setlists/ed-sheeran-53d5f3bd.html</rdf:li>
+        <rdf:li>http://teddystimeline.tumblr.com/</rdf:li>
+        <rdf:li>https://instagram.com/teddysphotos/</rdf:li>
+        <rdf:li>https://www.musik-sammler.de/artist/ed-sheeran/</rdf:li>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Ed_Sheeran_2013.jpg</rdf:li>
+        <rdf:li>https://twitter.com/edsheeran</rdf:li>
+        <rdf:li>http://decoda.com/ed-sheeran-lyrics</rdf:li>
+        <rdf:li>https://bandsintown.com/edsheeran</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0002639628</rdf:li>
+        <rdf:li>https://soundcloud.com/edsheeran</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/63462</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm3247828/</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Ed_Sheeran</rdf:li>
+        <rdf:li>http://instagram.com/edsheeran</rdf:li>
+        <rdf:li>http://www.last.fm/music/Ed+Sheeran</rdf:li>
+        <rdf:li>http://edsheeran.com/</rdf:li>
+        <rdf:li>https://rateyourmusic.com/artist/ed_sheeran</rdf:li>
+        <rdf:li>https://myspace.com/edsheeran</rdf:li>
+        <rdf:li>http://www.cdbaby.com/Artist/EdSheeran</rdf:li>
+        <rdf:li>https://www.instagram.com/teddysphotos/</rdf:li>
+        <rdf:li>https://www.facebook.com/EdSheeranMusic/</rdf:li>
+        <rdf:li>http://www.edsheeran.com/</rdf:li>
+        <rdf:li>http://equipboard.com/pros/ed-sheeran</rdf:li>
+        <rdf:li>https://www.last.fm/music/Ed+Sheeran</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:rating_value>4.4</artist:rating_value>
+    <artist:gender>Male</artist:gender>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Halifax"/>
+    <artist:life-span_begin>2/17/91</artist:life-span_begin>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/5/55/Ed_Sheeran_2013.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Asylum"/>
+    <artist:name>Ed Sheeran</artist:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Eminem">
+    <artist:name>Eminem</artist:name>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>http://www.last.fm/music/Eminem</rdf:li>
+        <rdf:li>http://rateyourmusic.com/artist/eminem</rdf:li>
+        <rdf:li>https://soundcloud.com/eminemofficial</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0001892803</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm0004896/</rdf:li>
+        <rdf:li>http://genius.com/artists/Eminem</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q5608</rdf:li>
+        <rdf:li>http://musicmoz.org/Bands_and_Artists/E/Eminem/</rdf:li>
+        <rdf:li>http://lyrics.wikia.com/Eminem</rdf:li>
+        <rdf:li>https://itunes.apple.com/artist/id111051</rdf:li>
+        <rdf:li>http://www.directlyrics.com/eminem-artist.html</rdf:li>
+        <rdf:li>https://www.youtube.com/user/EminemMusic</rdf:li>
+        <rdf:li>http://twitter.com/Eminem</rdf:li>
+        <rdf:li>http://www.instagram.com/eminem</rdf:li>
+        <rdf:li>http://en.wikipedia.org/wiki/Eminem</rdf:li>
+        <rdf:li>http://eminem.tumblr.com</rdf:li>
+        <rdf:li>http://www.eminem.com</rdf:li>
+        <rdf:li>http://www.facebook.com/eminem</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:album rdf:resource="http://myMusic.org/music/album/The_Eminem_Show"/>
+    <artist:born rdf:resource="http://myMusic.org/music/location/St._Joseph"/>
+    <artist:popularity>95</artist:popularity>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/1/11/Eminem_DJ_Hero.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Em</rdf:li>
+        <rdf:li>EminemMusic</rdf:li>
+        <rdf:li>M&amp;M</rdf:li>
+        <rdf:li>M. Mathers</rdf:li>
+        <rdf:li>Marshall B. Mathers</rdf:li>
+        <rdf:li>Marshall B. Mathers III</rdf:li>
+        <rdf:li>Marshall Bruce Mathers</rdf:li>
+        <rdf:li>Marshall Bruce Mathers III</rdf:li>
+        <rdf:li>Marshall Mathers</rdf:li>
+        <rdf:li>Ominem</rdf:li>
+        <rdf:li>Slim Shady</rdf:li>
+        <rdf:li>The Real Slim Shady</rdf:li>
+        <rdf:li>E. Minem</rdf:li>
+        <rdf:li>Emiem</rdf:li>
+        <rdf:li>Emine</rdf:li>
+        <rdf:li>Eminem Show</rdf:li>
+        <rdf:li>Enimen</rdf:li>
+        <rdf:li>M &amp; M</rdf:li>
+        <rdf:li>M.N.M</rdf:li>
+        <rdf:li>MC Double M</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:rating_votes-count>31</artist:rating_votes-count>
+    <artist:followers>11363366</artist:followers>
+    <artist:life-span_begin>10/17/72</artist:life-span_begin>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Detroit"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Recovery"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/8_Mile"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/The_Marshall_Mathers_LP_2"/>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>keyboards</rdf:li>
+        <rdf:li>drums</rdf:li>
+        <rdf:li>sampler</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Curtain_Call:_The_hits"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Aftermath"/>
+    <artist:gender>Male</artist:gender>
+    <artist:rating_value>4.3</artist:rating_value>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Encore"/>
+    <artist:type>Person</artist:type>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Bassmint"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/The_Weeknd">
+    <artist:label rdf:resource="http://myMusic.org/music/label/Republic"/>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Toronto"/>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Scarborough"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/4/46/The_Weeknd_2015.jpg</artist:image_urls>
+    <artist:gender>Male</artist:gender>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Abel_Makkonen_Tesfaye</rdf:li>
+        <rdf:li>The Weekend</rdf:li>
+        <rdf:li>The Weeknd</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:followers>8285503</artist:followers>
+    <artist:name>The Weeknd</artist:name>
+    <artist:label rdf:resource="http://myMusic.org/music/label/XO"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/50_shades_of_grey"/>
+    <artist:life-span_begin>2/16/90</artist:life-span_begin>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Star_Boy"/>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://www.youtube.com/user/xoxxxoooxo</rdf:li>
+        <rdf:li>https://www.facebook.com/theweeknd</rdf:li>
+        <rdf:li>https://itunes.apple.com/artist/id479756766</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0002674162</rdf:li>
+        <rdf:li>https://instagram.com/abelxo</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q2121062</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm5809538/</rdf:li>
+        <rdf:li>https://twitter.com/TheWeeknd</rdf:li>
+        <rdf:li>https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ</rdf:li>
+        <rdf:li>http://muzikum.eu/en/122-10886/the-weeknd/lyrics.html</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/2171152</rdf:li>
+        <rdf:li>https://play.google.com/store/music/artist?id=Abut7hc25p5ysfxgn7sa74vueoa</rdf:li>
+        <rdf:li>https://www.twitter.com/theweeknd</rdf:li>
+        <rdf:li>http://www.theweeknd.com</rdf:li>
+        <rdf:li>http://en.wikipedia.org/wiki/The_Weeknd</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:album rdf:resource="http://myMusic.org/music/album/House_of_Ballons"/>
+    <artist:type>Person</artist:type>
+    <artist:instruments>Vocals</artist:instruments>
+    <artist:rating_votes-count>2</artist:rating_votes-count>
+    <artist:popularity>95</artist:popularity>
+    <artist:rating_value>4.5</artist:rating_value>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Bruno_Mars">
+    <artist:rating_value>5</artist:rating_value>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>guitar</rdf:li>
+        <rdf:li>piano</rdf:li>
+        <rdf:li>keyboards</rdf:li>
+        <rdf:li>drums</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <artist:life-span_begin>10/8/85</artist:life-span_begin>
+    <artist:rating_votes-count>2</artist:rating_votes-count>
+    <artist:name>Bruno Mars</artist:name>
+    <artist:gender>Male</artist:gender>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Honolulu"/>
+    <artist:popularity>92</artist:popularity>
+    <artist:followers>8601813</artist:followers>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://en.wikipedia.org/wiki/Bruno_Mars</rdf:li>
+        <rdf:li>https://concertics.com/performer/bruno-mars</rdf:li>
+        <rdf:li>https://twitter.com/BRUNOMARS</rdf:li>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Bruno_Mars%2C_Las_Vegas_2010.jpg</rdf:li>
+        <rdf:li>http://www.last.fm/music/Bruno+Mars</rdf:li>
+        <rdf:li>https://www.facebook.com/brunomars</rdf:li>
+        <rdf:li>http://muzikum.eu/en/122-8562/bruno-mars/lyrics.html</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/51310</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm3960069/</rdf:li>
+        <rdf:li>https://plus.google.com/+BrunoMars</rdf:li>
+        <rdf:li>http://www.brunomars.com/</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/1357693</rdf:li>
+        <rdf:li>http://www.bbc.co.uk/music/artists/afb680f2-b6eb-4cd7-a70b-a63b25c763d5</rdf:li>
+        <rdf:li>https://myspace.com/brunossongs</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q1450</rdf:li>
+        <rdf:li>https://www.youtube.com/user/ElektraRecords</rdf:li>
+        <rdf:li>http://lyrics.wikia.com/Bruno_Mars</rdf:li>
+        <rdf:li>https://itunes.apple.com/us/artist/id278873078</rdf:li>
+        <rdf:li>https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C</rdf:li>
+        <rdf:li>http://weave.me/app/weave.html?Bruno_Mars</rdf:li>
+        <rdf:li>http://decoda.com/bruno-mars-lyrics</rdf:li>
+        <rdf:li>https://instagram.com/brunomars/</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0001032082</rdf:li>
+        <rdf:li>http://rateyourmusic.com/artist/bruno_mars</rdf:li>
+        <rdf:li>http://www.directlyrics.com/bruno-mars-artist.html</rdf:li>
+        <rdf:li>http://equipboard.com/pros/bruno-mars</rdf:li>
+        <rdf:li>https://soundcloud.com/brunomars</rdf:li>
+        <rdf:li>https://twitter.com/BrunoMars</rdf:li>
+        <rdf:li>https://www.facebook.com/brunomars/</rdf:li>
+        <rdf:li>https://myspace.com/brunomars</rdf:li>
+        <rdf:li>https://www.instagram.com/brunomars/</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:album rdf:resource="http://myMusic.org/music/album/24K_Magic"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Doo-Wops_&amp;_Hooligans"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Unorthodox_Jukebox"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/f/fa/Bruno_Mars%2C_Las_Vegas_2010.jpg</artist:image_urls>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Peter Gene Hernandez</rdf:li>
+        <rdf:li>B Mars</rdf:li>
+        <rdf:li>B. Mars</rdf:li>
+        <rdf:li>Bruno Mraz</rdf:li>
+        <rdf:li>Mars</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:type>Person</artist:type>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Elektra"/>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Los_Angeles"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Justin_Bieber">
+    <artist:label rdf:resource="http://myMusic.org/music/label/School_Boy"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Friends"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Believe"/>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>Drums</rdf:li>
+        <rdf:li>Guitar</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Justin Beiber</rdf:li>
+        <rdf:li>Justin Drew Bieber</rdf:li>
+        <rdf:li>Bieber Justin</rdf:li>
+        <rdf:li>J. Bieber</rdf:li>
+        <rdf:li>JB</rdf:li>
+        <rdf:li>Justin Biber</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:rating_value>4</artist:rating_value>
+    <artist:type>Person</artist:type>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Purpose(Deluxe)"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Def_Jam"/>
+    <artist:rating_votes-count>8</artist:rating_votes-count>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Atlanta"/>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Justin_Bieber_ABC.jpg</rdf:li>
+        <rdf:li>https://itunes.apple.com/artist/id320569549</rdf:li>
+        <rdf:li>https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s</rdf:li>
+        <rdf:li>https://twitter.com/justinbieber</rdf:li>
+        <rdf:li>https://www.instagram.com/justinbieber/</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/1602787</rdf:li>
+        <rdf:li>http://decoda.com/justin-bieber-lyrics</rdf:li>
+        <rdf:li>http://www.justinbiebermusic.com/</rdf:li>
+        <rdf:li>http://muzikum.eu/en/122-8583/justin-bieber/lyrics.html</rdf:li>
+        <rdf:li>http://genius.com/artists/Justin-bieber</rdf:li>
+        <rdf:li>https://www.youtube.com/user/JustinBieberVEVO</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Justin_Bieber</rdf:li>
+        <rdf:li>https://myspace.com/justinbieber</rdf:li>
+        <rdf:li>http://thejustinbiebershrine.com/</rdf:li>
+        <rdf:li>http://weave.me/app/weave.html?Justin_Bieber</rdf:li>
+        <rdf:li>http://www.lovifm.com/2017/08/miley-cyrus-ft-justin-bieber-take-it-Easy-new-song-2017.html</rdf:li>
+        <rdf:li>http://www.jbsource.org/</rdf:li>
+        <rdf:li>https://rateyourmusic.com/artist/justin_bieber</rdf:li>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Justin_Bieber_NRJ_Music_Awards_2012.jpg</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q34086</rdf:li>
+        <rdf:li>https://www.youtube.com/user/kidrauhl</rdf:li>
+        <rdf:li>http://www.last.fm/music/Justin+Bieber</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0002165952</rdf:li>
+        <rdf:li>http://www.directlyrics.com/justin-bieber-artist.html</rdf:li>
+        <rdf:li>https://www.facebook.com/JustinBieber</rdf:li>
+        <rdf:li>http://viaf.org/viaf/103075654</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/45405</rdf:li>
+        <rdf:li>http://imvdb.com/n/justin-bieber</rdf:li>
+        <rdf:li>http://www.facebook.com/JustinBieber</rdf:li>
+        <rdf:li>http://www.justinbiebermusic.com</rdf:li>
+        <rdf:li>http://en.wikipedia.org/wiki/Justin_Bieber</rdf:li>
+        <rdf:li>http://www.youtube.com/justinbieber</rdf:li>
+        <rdf:li>http://instagram.com/justinbieber</rdf:li>
+        <rdf:li>http://soundcloud.com/justinbieber</rdf:li>
+        <rdf:li>http://justinbieber.tumblr.com</rdf:li>
+        <rdf:li>http://twitter.com/justinbieber</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:album rdf:resource="http://myMusic.org/music/album/My_World_2.0"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/2/23/Justin_Bieber_NRJ_Music_Awards_2012.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Island"/>
+    <artist:name>Justin Bieber</artist:name>
+    <artist:gender>Male</artist:gender>
+    <artist:life-span_begin>3/1/94</artist:life-span_begin>
+    <artist:followers>14368675</artist:followers>
+    <artist:popularity>97</artist:popularity>
+    <artist:born rdf:resource="http://myMusic.org/music/location/London"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Katy_Perry">
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Katheryn Elizabeth Hudson</rdf:li>
+        <rdf:li>Katheryn Hudson</rdf:li>
+        <rdf:li>Katheryn Perry</rdf:li>
+        <rdf:li>Katy Hudson</rdf:li>
+        <rdf:li>Katy Perry</rdf:li>
+        <rdf:li>K. Perry</rdf:li>
+        <rdf:li>Kate Perry</rdf:li>
+        <rdf:li>Katie Perry</rdf:li>
+        <rdf:li>Mrs. K. Perry</rdf:li>
+        <rdf:li>Perry</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Los_Angeles"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Red_Hill"/>
+    <artist:name>Katy Perry</artist:name>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>http://genius.com/artists/Katy-perry</rdf:li>
+        <rdf:li>https://rateyourmusic.com/artist/katy_perry</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm2953537/</rdf:li>
+        <rdf:li>https://bandsintown.com/katyperry</rdf:li>
+        <rdf:li>https://plus.google.com/+KatyPerry</rdf:li>
+        <rdf:li>https://listen.tidal.com/artist/3531205</rdf:li>
+        <rdf:li>http://katyperryblog.tumblr.com/</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Katy_Perry</rdf:li>
+        <rdf:li>http://muzikum.eu/en/122-5100/katy-perry/lyrics.html</rdf:li>
+        <rdf:li>https://www.youtube.com/user/KatyPerryMusic</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/1565871</rdf:li>
+        <rdf:li>http://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X</rdf:li>
+        <rdf:li>https://play.google.com/store/music/artist?id=Appwjs7lfqqvmpriiu4r6xs5lhe</rdf:li>
+        <rdf:li>https://imvdb.com/n/katy-perry</rdf:li>
+        <rdf:li>https://www.facebook.com/katyperry</rdf:li>
+        <rdf:li>http://www.bbc.co.uk/music/artists/122d63fc-8671-43e4-9752-34e846d62a9c</rdf:li>
+        <rdf:li>https://itunes.apple.com/us/artist/id64387566</rdf:li>
+        <rdf:li>https://www.songkick.com/artists/1134363-katy-perry</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q42493</rdf:li>
+        <rdf:li>https://twitter.com/katyperry</rdf:li>
+        <rdf:li>http://katyperry.wikia.com/</rdf:li>
+        <rdf:li>https://www.discogs.com/artist/971243</rdf:li>
+        <rdf:li>http://www.last.fm/music/Katy+Perry</rdf:li>
+        <rdf:li>https://www.deezer.com/artist/144227</rdf:li>
+        <rdf:li>https://www.worldcat.org/identities/lccn-no2005065408/</rdf:li>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Katy_Perry_Myer_Syndey.jpg</rdf:li>
+        <rdf:li>https://www.youtube.com/channel/UC_7s69e1mDS3lgcTMJEPjCg</rdf:li>
+        <rdf:li>https://myspace.com/katyperry</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/35338</rdf:li>
+        <rdf:li>http://lyrics.wikia.com/Katy_Perry</rdf:li>
+        <rdf:li>http://www.funnyordie.com/katy_perry</rdf:li>
+        <rdf:li>http://decoda.com/katy-perry-lyrics</rdf:li>
+        <rdf:li>http://viaf.org/viaf/91213272</rdf:li>
+        <rdf:li>https://soundcloud.com/katyperryofficial</rdf:li>
+        <rdf:li>http://weave.me/app/weave.html?Katy_Perry</rdf:li>
+        <rdf:li>http://www.setlist.fm/setlists/katy-perry-2bd6bc42.html</rdf:li>
+        <rdf:li>http://www.whosampled.com/Katy-Perry/</rdf:li>
+        <rdf:li>https://www.youtube.com/user/KatyPerryVEVO</rdf:li>
+        <rdf:li>http://www.katyperry.com/</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0000859589</rdf:li>
+        <rdf:li>http://instagram.com/katyperry/</rdf:li>
+        <rdf:li>http://www.directlyrics.com/katy-perry-artist.html</rdf:li>
+        <rdf:li>https://www.musik-sammler.de/artist/katy-perry/</rdf:li>
+        <rdf:li>http://en.wikipedia.org/wiki/Katy_Perry</rdf:li>
+        <rdf:li>http://www.youtube.com/katyperry</rdf:li>
+        <rdf:li>http://www.katyperry.com</rdf:li>
+        <rdf:li>http://www.myspace.com/katyperry</rdf:li>
+        <rdf:li>http://instagram.com/katyperry</rdf:li>
+        <rdf:li>http://plus.google.com/+KatyPerry</rdf:li>
+        <rdf:li>http://www.facebook.com/katyperry</rdf:li>
+        <rdf:li>http://www.pinterest.com/katyperry</rdf:li>
+        <rdf:li>http://twitter.com/katyperry</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:type>Person</artist:type>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Witness"/>
+    <artist:followers>7452976</artist:followers>
+    <artist:rating_votes-count>14</artist:rating_votes-count>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/f/f8/Katy_Perry_Myer_Syndey.jpg</artist:image_urls>
+    <artist:popularity>91</artist:popularity>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>guitar</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Java"/>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Santa_Barbara"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Teenage_Dream"/>
+    <artist:gender>Female</artist:gender>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Prism"/>
+    <artist:rating_value>3.45</artist:rating_value>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Capitol"/>
+    <artist:life-span_begin>10/25/84</artist:life-span_begin>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Usher">
+    <artist:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Raymond_v_Raymond"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Arista"/>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Atlanta"/>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://twitter.com/usher</rdf:li>
+        <rdf:li>https://www.youtube.com/user/UsherVEVO</rdf:li>
+        <rdf:li>http://www.deezer.com/artist/17</rdf:li>
+        <rdf:li>http://musicmoz.org/Bands_and_Artists/U/Usher/</rdf:li>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Usher_Raymond_by_Sandra_Alphonse_(Straighten_Crop).jpg</rdf:li>
+        <rdf:li>https://soundcloud.com/usher-raymond-music</rdf:li>
+        <rdf:li>https://www.facebook.com/usher</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm0713378/</rdf:li>
+        <rdf:li>http://www.directlyrics.com/usher-artist.html</rdf:li>
+        <rdf:li>https://en.wikipedia.org/wiki/Usher_(singer)</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/20636</rdf:li>
+        <rdf:li>http://www.whosampled.com/Usher/</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0000303506</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:rating_votes-count>2</artist:rating_votes-count>
+    <artist:gender>Male</artist:gender>
+    <artist:followers>4467024</artist:followers>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Usher_Raymond_IV</rdf:li>
+        <rdf:li>Usher San</rdf:li>
+        <rdf:li>Usher (Caesar of The South)</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:rating_value>3</artist:rating_value>
+    <artist:life-span_begin>10/14/78</artist:life-span_begin>
+    <artist:popularity>85</artist:popularity>
+    <artist:instruments>
+      <rdf:Bag>
+        <rdf:li>Vocals</rdf:li>
+        <rdf:li>drums</rdf:li>
+        <rdf:li>bass guitar</rdf:li>
+      </rdf:Bag>
+    </artist:instruments>
+    <artist:label rdf:resource="http://myMusic.org/music/label/LaFace"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/2/29/Usher_Raymond_by_Sandra_Alphonse_%28Straighten_Crop%29.jpg</artist:image_urls>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Dallas"/>
+    <artist:type>Person</artist:type>
+    <artist:name>Usher</artist:name>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Sony_Legacy"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Jive"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/RBMG"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Looking_4_Myself"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/artist/Rihanna">
+    <artist:rating_value>3.3</artist:rating_value>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Rated_R"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Anti"/>
+    <artist:origin rdf:resource="http://myMusic.org/music/location/Saint_Michael"/>
+    <artist:type>Person</artist:type>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Roc_Nation"/>
+    <artist:image_urls>https://upload.wikimedia.org/wikipedia/commons/5/51/Rihanna_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014.jpg</artist:image_urls>
+    <artist:label rdf:resource="http://myMusic.org/music/label/SRP"/>
+    <artist:name>Rihanna</artist:name>
+    <artist:rating_votes-count>16</artist:rating_votes-count>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Def_Jam"/>
+    <artist:urls>
+      <rdf:Bag>
+        <rdf:li>https://twitter.com/rihanna</rdf:li>
+        <rdf:li>https://plus.google.com/+Rihanna</rdf:li>
+        <rdf:li>https://www.musik-sammler.de/artist/rihanna/</rdf:li>
+        <rdf:li>http://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H</rdf:li>
+        <rdf:li>http://instagram.com/badgalriri</rdf:li>
+        <rdf:li>http://www.secondhandsongs.com/artist/19179</rdf:li>
+        <rdf:li>http://www.rihannanow.com/</rdf:li>
+        <rdf:li>http://lyrics.wikia.com/wiki/Rihanna</rdf:li>
+        <rdf:li>https://www.youtube.com/user/rihanna</rdf:li>
+        <rdf:li>http://musicmoz.org/Bands_and_Artists/R/Rihanna/</rdf:li>
+        <rdf:li>https://www.wikidata.org/wiki/Q36844</rdf:li>
+        <rdf:li>http://decoda.com/rihanna-lyrics</rdf:li>
+        <rdf:li>http://www.last.fm/music/Rihanna</rdf:li>
+        <rdf:li>https://www.facebook.com/rihanna</rdf:li>
+        <rdf:li>https://commons.wikimedia.org/wiki/File:Rihanna_Cologne_2013_03.jpg</rdf:li>
+        <rdf:li>https://www.youtube.com/user/RihannaVEVO</rdf:li>
+        <rdf:li>http://www.imdb.com/name/nm1982597/</rdf:li>
+        <rdf:li>https://itunes.apple.com/artist/id63346553</rdf:li>
+        <rdf:li>http://www.allmusic.com/artist/mn0002947871</rdf:li>
+        <rdf:li>http://www.bbc.co.uk/music/artists/73e5e69d-3554-40d8-8516-00cb38737a1c</rdf:li>
+        <rdf:li>https://soundcloud.com/rihanna</rdf:li>
+        <rdf:li>http://weave.me/app/weave.html?Rihanna</rdf:li>
+        <rdf:li>http://rateyourmusic.com/artist/rihanna</rdf:li>
+        <rdf:li>https://myspace.com/rihanna</rdf:li>
+        <rdf:li>http://plus.google.com/+Rihanna</rdf:li>
+        <rdf:li>http://twitter.com/rihanna</rdf:li>
+        <rdf:li>http://www.vevo.com/artist/rihanna</rdf:li>
+        <rdf:li>http://www.universal-music.de/rihanna/home</rdf:li>
+        <rdf:li>http://rihannafenty.webs.com</rdf:li>
+        <rdf:li>http://www.facebook.com/rihanna</rdf:li>
+      </rdf:Bag>
+    </artist:urls>
+    <artist:gender>Female</artist:gender>
+    <artist:popularity>96</artist:popularity>
+    <artist:life-span_begin>2/20/88</artist:life-span_begin>
+    <artist:aliases_name>
+      <rdf:Bag>
+        <rdf:li>Rhianna</rdf:li>
+        <rdf:li>Robyn Rihanna Fenty</rdf:li>
+        <rdf:li>Rianna</rdf:li>
+      </rdf:Bag>
+    </artist:aliases_name>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Talk_that_talk"/>
+    <artist:album rdf:resource="http://myMusic.org/music/album/Good_Girl_gone_bad"/>
+    <artist:label rdf:resource="http://myMusic.org/music/label/Westbury_Road"/>
+    <artist:followers>15133825</artist:followers>
+    <artist:instruments></artist:instruments>
+    <artist:born rdf:resource="http://myMusic.org/music/location/Manhattan"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Rated_R">
+    <album:label rdf:resource="http://myMusic.org/music/label/Def_Jam"/>
+    <album:play_count>16994014</album:play_count>
+    <album:release_date>6/6/00</album:release_date>
+    <album:track_count>13</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Rated R</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Stars_Dance">
+    <album:label rdf:resource="http://myMusic.org/music/label/Hollywood"/>
+    <album:play_count>428126</album:play_count>
+    <album:release_date>7/9/13</album:release_date>
+    <album:track_count>13</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Stars Dance</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/House_Of_Ballons">
+    <album:label rdf:resource="http://myMusic.org/music/label/XO"/>
+    <album:play_count>6215062</album:play_count>
+    <album:release_date>3/21/11</album:release_date>
+    <album:track_count>10</album:track_count>
+    <album:price>7.99</album:price>
+    <album:name>House Of Ballons</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Planet_pit">
+    <album:label rdf:resource="http://myMusic.org/music/label/Polo_Grounds"/>
+    <album:play_count>48068</album:play_count>
+    <album:release_date>6/17/11</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Planet pit</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Dale">
+    <album:play_count>173041</album:play_count>
+    <album:release_date>7/17/15</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Dale</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/The_Eminem_Show">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Aftermath"/>
+    <album:play_count>993046</album:play_count>
+    <album:release_date>5/26/02</album:release_date>
+    <album:track_count>19</album:track_count>
+    <album:price>6.99</album:price>
+    <album:name>The Eminem Show</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Rebelution">
+    <album:play_count>2403561</album:play_count>
+    <album:release_date>8/28/09</album:release_date>
+    <album:track_count>14</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Rebelution</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Friends">
+    <album:play_count>1684414</album:play_count>
+    <album:release_date>8/17/17</album:release_date>
+    <album:track_count>8</album:track_count>
+    <album:price>7.99</album:price>
+    <album:name>Friends</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Raymond_v_Raymond">
+    <album:label rdf:resource="http://myMusic.org/music/label/LA_face"/>
+    <album:play_count>2036828</album:play_count>
+    <album:release_date>3/26/10</album:release_date>
+    <album:track_count>22</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>Raymond v Raymond</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Anti">
+    <album:label rdf:resource="http://myMusic.org/music/label/West_bury_Road"/>
+    <album:play_count>8276122</album:play_count>
+    <album:release_date>1/28/16</album:release_date>
+    <album:track_count>16</album:track_count>
+    <album:price>13.99</album:price>
+    <album:name>Anti</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/50_shades_of_gray">
+    <album:label rdf:resource="http://myMusic.org/music/label/Republic"/>
+    <album:play_count>1025473</album:play_count>
+    <album:release_date>2/9/15</album:release_date>
+    <album:track_count></album:track_count>
+    <album:price></album:price>
+    <album:name>50 shades of gray</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Curtain_Call:_The_hits">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Aftermath"/>
+    <album:play_count>5555827</album:play_count>
+    <album:release_date>12/6/05</album:release_date>
+    <album:track_count>15</album:track_count>
+    <album:price>6.99</album:price>
+    <album:name>Curtain Call: The hits</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/My_World_2.0">
+    <album:label rdf:resource="http://myMusic.org/music/label/Island"/>
+    <album:play_count>4753193</album:play_count>
+    <album:release_date>3/19/10</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>7.99</album:price>
+    <album:name>My World 2.0</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/25">
+    <album:label rdf:resource="http://myMusic.org/music/label/XL"/>
+    <album:play_count>28484</album:play_count>
+    <album:release_date>11/20/15</album:release_date>
+    <album:track_count>11</album:track_count>
+    <album:price>10.99</album:price>
+    <album:name>25</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Talk_that_talk">
+    <album:label rdf:resource="http://myMusic.org/music/label/Def_Jam"/>
+    <album:play_count>123523</album:play_count>
+    <album:release_date>11/18/11</album:release_date>
+    <album:track_count>15</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>Talk that talk</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Reputation">
+    <album:label rdf:resource="http://myMusic.org/music/label/Big_Machine"/>
+    <album:play_count>11502954</album:play_count>
+    <album:release_date>11/10/17</album:release_date>
+    <album:track_count>15</album:track_count>
+    <album:price>5.99</album:price>
+    <album:name>Reputation</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/21">
+    <album:label rdf:resource="http://myMusic.org/music/label/XL"/>
+    <album:play_count>23708133</album:play_count>
+    <album:release_date>1/24/11</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>10.99</album:price>
+    <album:name>21</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Divide">
+    <album:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Asylum"/>
+    <album:play_count>814993</album:play_count>
+    <album:release_date>3/3/17</album:release_date>
+    <album:track_count>8</album:track_count>
+    <album:price>12.99</album:price>
+    <album:name>Divide</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/8_Mile">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <album:play_count>1245734</album:play_count>
+    <album:release_date>11/8/02</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>5.99</album:price>
+    <album:name>8 Mile</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Confessions">
+    <album:label rdf:resource="http://myMusic.org/music/label/Arista"/>
+    <album:play_count>5622743</album:play_count>
+    <album:release_date>6/5/10</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>Confessions</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Encore">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Aftermath"/>
+    <album:play_count>9675601</album:play_count>
+    <album:release_date>11/12/04</album:release_date>
+    <album:track_count>20</album:track_count>
+    <album:price>6.99</album:price>
+    <album:name>Encore</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Doo-Wops_&amp;_Hooligans">
+    <album:label rdf:resource="http://myMusic.org/music/label/Elektra"/>
+    <album:play_count>214524</album:play_count>
+    <album:release_date>10/4/10</album:release_date>
+    <album:track_count>10</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Doo-Wops &amp; Hooligans</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Teenage_Dream">
+    <album:label rdf:resource="http://myMusic.org/music/label/Capitol"/>
+    <album:play_count>3405252</album:play_count>
+    <album:release_date>7/24/10</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Teenage Dream</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Looking_4_Myself">
+    <album:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <album:play_count>1676280</album:play_count>
+    <album:release_date>6/8/12</album:release_date>
+    <album:track_count>19</album:track_count>
+    <album:price>12.99</album:price>
+    <album:name>Looking 4 Myself</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Purpose(Deluxe)">
+    <album:label rdf:resource="http://myMusic.org/music/label/Def_Jam"/>
+    <album:play_count>4212150</album:play_count>
+    <album:release_date>11/13/15</album:release_date>
+    <album:track_count>18</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Purpose(Deluxe)</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Recovery">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Aftermath"/>
+    <album:play_count>26095077</album:play_count>
+    <album:release_date>6/18/10</album:release_date>
+    <album:track_count>17</album:track_count>
+    <album:price>6.99</album:price>
+    <album:name>Recovery</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/+">
+    <album:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <album:play_count>3217941</album:play_count>
+    <album:release_date>9/9/11</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>8.99</album:price>
+    <album:name>+</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Revival">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:play_count>2730180</album:play_count>
+    <album:release_date>10/9/15</album:release_date>
+    <album:track_count>14</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Revival</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/For_you">
+    <album:label rdf:resource="http://myMusic.org/music/label/Hollywood"/>
+    <album:play_count>15759</album:play_count>
+    <album:release_date>11/24/14</album:release_date>
+    <album:track_count>16</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>For you</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Climate_Change">
+    <album:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Polo_Grounds"/>
+    <album:play_count>103510</album:play_count>
+    <album:release_date>3/17/17</album:release_date>
+    <album:track_count>7</album:track_count>
+    <album:price>5.99</album:price>
+    <album:name>Climate Change</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Red">
+    <album:label rdf:resource="http://myMusic.org/music/label/Big_Machine"/>
+    <album:play_count>53194627</album:play_count>
+    <album:release_date>10/22/12</album:release_date>
+    <album:track_count>16</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>Red</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Prism">
+    <album:label rdf:resource="http://myMusic.org/music/label/Capitol"/>
+    <album:play_count>30770187</album:play_count>
+    <album:release_date>10/18/13</album:release_date>
+    <album:track_count>16</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>Prism</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/19">
+    <album:label rdf:resource="http://myMusic.org/music/label/XL"/>
+    <album:play_count>7595881</album:play_count>
+    <album:release_date>1/28/08</album:release_date>
+    <album:track_count>13</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>19</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Globalization">
+    <album:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Polo_Grounds"/>
+    <album:play_count>4458683</album:play_count>
+    <album:release_date>11/21/14</album:release_date>
+    <album:track_count>10</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Globalization</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/The_Marshall_Mathers_LP_2">
+    <album:label rdf:resource="http://myMusic.org/music/label/Interscope"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Shady"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Aftermath"/>
+    <album:play_count>12525860</album:play_count>
+    <album:release_date>5/23/00</album:release_date>
+    <album:track_count>18</album:track_count>
+    <album:price>6.99</album:price>
+    <album:name>The Marshall Mathers LP 2</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Global_Warming">
+    <album:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Polo_Grounds"/>
+    <album:play_count>675196</album:play_count>
+    <album:release_date>11/16/12</album:release_date>
+    <album:track_count>12</album:track_count>
+    <album:price>7.99</album:price>
+    <album:name>Global Warming</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Unorthodox_Jukebox">
+    <album:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <album:play_count>15593052</album:play_count>
+    <album:release_date>12/7/12</album:release_date>
+    <album:track_count>10</album:track_count>
+    <album:price>10.99</album:price>
+    <album:name>Unorthodox Jukebox</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Believe">
+    <album:label rdf:resource="http://myMusic.org/music/label/Island"/>
+    <album:play_count>4076660</album:play_count>
+    <album:release_date>6/15/12</album:release_date>
+    <album:track_count>11</album:track_count>
+    <album:price>10.99</album:price>
+    <album:name>Believe</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/1989">
+    <album:label rdf:resource="http://myMusic.org/music/label/Big_Machine"/>
+    <album:play_count>15899655</album:play_count>
+    <album:release_date>10/27/14</album:release_date>
+    <album:track_count>13</album:track_count>
+    <album:price>10.99</album:price>
+    <album:name>1989</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Good_Girl_gone_bad">
+    <album:label rdf:resource="http://myMusic.org/music/label/Def_Jam"/>
+    <album:play_count>7979693</album:play_count>
+    <album:release_date>5/31/07</album:release_date>
+    <album:track_count>17</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Good Girl gone bad</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Meltdown">
+    <album:label rdf:resource="http://myMusic.org/music/label/RCA"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Polo_Grounds"/>
+    <album:play_count>155653</album:play_count>
+    <album:release_date>11/22/13</album:release_date>
+    <album:track_count>17</album:track_count>
+    <album:price>9.99</album:price>
+    <album:name>Meltdown</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/X">
+    <album:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <album:label rdf:resource="http://myMusic.org/music/label/Asylum"/>
+    <album:play_count>2710042</album:play_count>
+    <album:release_date>6/20/14</album:release_date>
+    <album:track_count>10</album:track_count>
+    <album:price>10.99</album:price>
+    <album:name>X</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/24K_Magic">
+    <album:label rdf:resource="http://myMusic.org/music/label/Atlantic"/>
+    <album:play_count>11300873</album:play_count>
+    <album:release_date>11/18/16</album:release_date>
+    <album:track_count>9</album:track_count>
+    <album:price>7.99</album:price>
+    <album:name>24K Magic</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Star_Boy">
+    <album:label rdf:resource="http://myMusic.org/music/label/XO"/>
+    <album:play_count>11215945</album:play_count>
+    <album:release_date>11/25/16</album:release_date>
+    <album:track_count>18</album:track_count>
+    <album:price>13.99</album:price>
+    <album:name>Star Boy</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/5">
+    <album:play_count>431294</album:play_count>
+    <album:release_date>5/12/15</album:release_date>
+    <album:track_count>32</album:track_count>
+    <album:price>7.99</album:price>
+    <album:name>5</album:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/album/Witness">
+    <album:label rdf:resource="http://myMusic.org/music/label/Capitol"/>
+    <album:play_count>9680731</album:play_count>
+    <album:release_date>6/9/17</album:release_date>
+    <album:track_count>15</album:track_count>
+    <album:price>11.99</album:price>
+    <album:name>Witness</album:name>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://myMusic.org/music/song/That&apos;s_what_I_like">
+    <song:listners>138762</song:listners>
+    <song:play_count>938809</song:play_count>
+    <song:genre>Hip Hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/24K_Magic"/>
+    <song:duration>206000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>87</song:popularity>
+    <song:title>That's what I like</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Papers">
+    <song:listners>117365</song:listners>
+    <song:play_count>326836</song:play_count>
+    <song:genre>R&amp;B</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Raymond_V_Raymond"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Usher"/>
+    <song:popularity>82</song:popularity>
+    <song:title>Papers</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Rap_God">
+    <song:listners>274209</song:listners>
+    <song:play_count>1982226</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/The_Marshall_Mathers_LP_2"/>
+    <song:duration>363521</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>74</song:popularity>
+    <song:title>Rap God</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Umbrella">
+    <song:listners>818622</song:listners>
+    <song:play_count>4386390</song:play_count>
+    <song:genre>Soul</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Good_Girl_gone_bad"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Rihanna"/>
+    <song:popularity>71</song:popularity>
+    <song:title>Umbrella</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Climax">
+    <song:listners>140255</song:listners>
+    <song:play_count>687123</song:play_count>
+    <song:genre>Electro Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Looking_4_Myself"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Usher"/>
+    <song:popularity>81</song:popularity>
+    <song:title>Climax</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Look_What_You_Made_Me_Do">
+    <song:listners>124770</song:listners>
+    <song:play_count>2253718</song:play_count>
+    <song:genre>Dance pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Reputation"/>
+    <song:duration>211859</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Look What You Made Me Do</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Someone_Like_You">
+    <song:listners>937865</song:listners>
+    <song:play_count>9485840</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/21"/>
+    <song:duration>287000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>77</song:popularity>
+    <song:title>Someone Like You</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/I_Know_You_Want_Me_(Calle_Ocho)">
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Rebelution"/>
+    <song:duration>237120</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>58</song:popularity>
+    <song:title>I Know You Want Me (Calle Ocho)</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Dive">
+    <song:listners>82513</song:listners>
+    <song:play_count>427941</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>238440</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>83</song:popularity>
+    <song:title>Dive</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Water_Under_the_bridge">
+    <song:listners>143545</song:listners>
+    <song:play_count>1027818</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>72</song:popularity>
+    <song:title>Water Under the bridge</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Star_boy">
+    <song:listners>243332</song:listners>
+    <song:play_count>2239575</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Star_Boy"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/The_Weeknd"/>
+    <song:popularity>79</song:popularity>
+    <song:title>Star boy</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/What_do_you_Mean?_-_Acoustic">
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>60</song:popularity>
+    <song:title>What do you Mean? - Acoustic</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Last_Friday_Night">
+    <song:listners>23721</song:listners>
+    <song:play_count>205714</song:play_count>
+    <song:genre>Dance Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Teenage_Dream"/>
+    <song:duration>343000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>57</song:popularity>
+    <song:title>Last Friday Night</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/High_for_this">
+    <song:listners>238127</song:listners>
+    <song:play_count>1884813</song:play_count>
+    <song:genre>R&amp;B</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/House_Of_Ballons"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/The_Weeknd"/>
+    <song:popularity>71</song:popularity>
+    <song:title>High for this</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Supermarket_Flowers">
+    <song:listners>61826</song:listners>
+    <song:play_count>288340</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>221106</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>81</song:popularity>
+    <song:title>Supermarket Flowers</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Good_for_you">
+    <song:listners>184752</song:listners>
+    <song:play_count>165713</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Revival"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Salena_Gomez"/>
+    <song:popularity>77</song:popularity>
+    <song:title>Good for you</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/When_I&apos;m_Gone">
+    <song:listners>320829</song:listners>
+    <song:play_count>2039281</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Curtail_Call:_The_hits"/>
+    <song:duration>281133</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>68</song:popularity>
+    <song:title>When I'm Gone</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/&apos;Till_I_Collapse">
+    <song:listners>361570</song:listners>
+    <song:play_count>2004379</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/The_Eminem_Show"/>
+    <song:duration>297893</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>79</song:popularity>
+    <song:title>'Till I Collapse</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/I_Don_��t_Wanna_Live_Forever_(Fifty_Shades_Darker)">
+    <song:genre>Electro Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Fifty_shades_Darker"/>
+    <song:duration>245653</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Various_Artists"/>
+    <song:popularity></song:popularity>
+    <song:title>I Don_��t Wanna Live Forever (Fifty Shades Darker)</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Roar">
+    <song:listners>492493</song:listners>
+    <song:play_count>5568545</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Prism"/>
+    <song:duration>223000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>67</song:popularity>
+    <song:title>Roar</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Chained_to_the_Rhythm">
+    <song:listners>128354</song:listners>
+    <song:play_count>1453933</song:play_count>
+    <song:genre>Disco</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Witness"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>72</song:popularity>
+    <song:title>Chained to the Rhythm</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Blank_Space">
+    <song:listners>204137</song:listners>
+    <song:play_count>3911711</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/1989"/>
+    <song:duration>231826</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Blank Space</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Castle_on_the_Hill">
+    <song:listners>166619</song:listners>
+    <song:play_count>1341932</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>261153</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>83</song:popularity>
+    <song:title>Castle on the Hill</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Shape_of_You">
+    <song:listners>284682</song:listners>
+    <song:play_count>322078</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>233712</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>92</song:popularity>
+    <song:title>Shape of You</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Mockingbird">
+    <song:listners>614634</song:listners>
+    <song:play_count>3251909</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Encore"/>
+    <song:duration>250760</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>70</song:popularity>
+    <song:title>Mockingbird</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Send_My_Love">
+    <song:listners>1609</song:listners>
+    <song:play_count>27535</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>72</song:popularity>
+    <song:title>Send My Love</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/When_I_Was_Your_Man">
+    <song:listners>413342</song:listners>
+    <song:play_count>2997349</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Unorthodox_Jukebox"/>
+    <song:duration>214000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>82</song:popularity>
+    <song:title>When I Was Your Man</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Hello">
+    <song:listners>358044</song:listners>
+    <song:play_count>3785936</song:play_count>
+    <song:genre>Soul</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <song:duration>295000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>70</song:popularity>
+    <song:title>Hello</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Sorry">
+    <song:listners>301526</song:listners>
+    <song:play_count>3385215</song:play_count>
+    <song:genre>Dancehall</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration>200000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>74</song:popularity>
+    <song:title>Sorry</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/When_we_were_young">
+    <song:listners>180964</song:listners>
+    <song:play_count>1396241</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <song:duration>291000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>72</song:popularity>
+    <song:title>When we were young</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Chunky">
+    <song:listners>51842</song:listners>
+    <song:play_count>265087</song:play_count>
+    <song:genre>Soul</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/24K_Magic"/>
+    <song:duration>186000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>75</song:popularity>
+    <song:title>Chunky</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Just_the_way_you_are">
+    <song:listners>662713</song:listners>
+    <song:play_count>5435047</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Doo-Wops_&amp;_Hooligans"/>
+    <song:duration>222000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>77</song:popularity>
+    <song:title>Just the way you are</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Perfect">
+    <song:listners>111237</song:listners>
+    <song:play_count>655180</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>263400</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>97</song:popularity>
+    <song:title>Perfect</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Make_you_feel_my_love">
+    <song:listners>667545</song:listners>
+    <song:play_count>4556874</song:play_count>
+    <song:genre>Rock</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/19"/>
+    <song:duration>212000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>69</song:popularity>
+    <song:title>Make you feel my love</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Boyfriend">
+    <song:listners>265355</song:listners>
+    <song:play_count>1989366</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Believe"/>
+    <song:duration>172000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>64</song:popularity>
+    <song:title>Boyfriend</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Time_of_Our_Lives">
+    <song:listners>189086</song:listners>
+    <song:play_count>967351</song:play_count>
+    <song:genre>Dance pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Globalization"/>
+    <song:duration>229360</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>77</song:popularity>
+    <song:title>Time of Our Lives</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Work">
+    <song:listners>5239634</song:listners>
+    <song:play_count>205362</song:play_count>
+    <song:genre>Dancehall</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Anti"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Rihanna"/>
+    <song:popularity>72</song:popularity>
+    <song:title>Work</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Friends">
+    <song:listners>5747</song:listners>
+    <song:play_count>32624</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Friends"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>84</song:popularity>
+    <song:title>Friends</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Hey_Ma_(with_Pitbull_&amp;_J_Balvin_feat._Camila_Cabello)_-_Spanish_Version">
+    <song:listners>23448</song:listners>
+    <song:play_count>95149</song:play_count>
+    <song:genre>Electronic</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/The_Fate_of_the_Furious:_The_Album"/>
+    <song:duration>194941</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>69</song:popularity>
+    <song:title>Hey Ma (with Pitbull &amp; J Balvin feat. Camila Cabello) - Spanish Version</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Bon_app_tit">
+    <song:listners>3059</song:listners>
+    <song:play_count>23039</song:play_count>
+    <song:genre>Dance Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Witness"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>69</song:popularity>
+    <song:title>Bon app_tit</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Purpose">
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>68</song:popularity>
+    <song:title>Purpose</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Versace_On_The_Floor">
+    <song:listners>64589</song:listners>
+    <song:play_count>398194</song:play_count>
+    <song:genre>Hip Hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/24K_Magic"/>
+    <song:duration>261000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>81</song:popularity>
+    <song:title>Versace On The Floor</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Baby">
+    <song:listners>331222</song:listners>
+    <song:play_count>2330694</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/My_World_2.0"/>
+    <song:duration>216000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>65</song:popularity>
+    <song:title>Baby</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Rolling_in_the_deep">
+    <song:listners>1196177</song:listners>
+    <song:play_count>12709049</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/21"/>
+    <song:duration>229000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>72</song:popularity>
+    <song:title>Rolling in the deep</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Rude_Boy">
+    <song:listners>757066</song:listners>
+    <song:play_count>4862645</song:play_count>
+    <song:genre>Dancehall</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Rated_R"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Rihanna"/>
+    <song:popularity>70</song:popularity>
+    <song:title>Rude Boy</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Happier">
+    <song:listners>86518</song:listners>
+    <song:play_count>442696</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>207520</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>85</song:popularity>
+    <song:title>Happier</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Photograph">
+    <song:listners>355184</song:listners>
+    <song:play_count>3010557</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/X"/>
+    <song:duration>258986</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>68</song:popularity>
+    <song:title>Photograph</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Love_Yourself">
+    <song:listners>254293</song:listners>
+    <song:play_count>2337358</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration>232000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>76</song:popularity>
+    <song:title>Love Yourself</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/All_I_ask">
+    <song:listners>84329</song:listners>
+    <song:play_count>649989</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <song:duration>272000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>69</song:popularity>
+    <song:title>All I ask</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Same_old_love">
+    <song:listners>160187</song:listners>
+    <song:play_count>1582513</song:play_count>
+    <song:genre>Electro Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Revival"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Salena_Gomez"/>
+    <song:popularity>77</song:popularity>
+    <song:title>Same old love</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Shake_It_Off">
+    <song:listners>295004</song:listners>
+    <song:play_count>4170480</song:play_count>
+    <song:genre>Dance pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/1989"/>
+    <song:duration>219200</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Shake It Off</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Treasure">
+    <song:listners>382772</song:listners>
+    <song:play_count>2752852</song:play_count>
+    <song:genre>Disco</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Unorthodox_Jukebox"/>
+    <song:duration>178000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>76</song:popularity>
+    <song:title>Treasure</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Disturbia">
+    <song:listners>750872</song:listners>
+    <song:play_count>4851392</song:play_count>
+    <song:genre>Electro Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Good_Girl_gone_bad"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Rihanna"/>
+    <song:popularity>70</song:popularity>
+    <song:title>Disturbia</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Gorgeous">
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Reputation"/>
+    <song:duration>209680</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Gorgeous</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Give_Me_Everything">
+    <song:listners>402411</song:listners>
+    <song:play_count>2496694</song:play_count>
+    <song:genre>pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Planet_pit"/>
+    <song:duration>252306</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>71</song:popularity>
+    <song:title>Give Me Everything</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Not_Afraid">
+    <song:listners>652384</song:listners>
+    <song:play_count>4511526</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Recovery"/>
+    <song:duration>248133</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>72</song:popularity>
+    <song:title>Not Afraid</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Company">
+    <song:genre>Electro Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>69</song:popularity>
+    <song:title>Company</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Set_fire_to_the_rain">
+    <song:listners>827584</song:listners>
+    <song:play_count>8695644</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/21"/>
+    <song:duration>241000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>71</song:popularity>
+    <song:title>Set fire to the rain</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/24K_Magic">
+    <song:listners>181032</song:listners>
+    <song:play_count>1240006</song:play_count>
+    <song:genre>Funk</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/24K_Magic"/>
+    <song:duration>226000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>82</song:popularity>
+    <song:title>24K Magic</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/E.T._-_feat._Kanye_West">
+    <song:listners>9093</song:listners>
+    <song:play_count>80375</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Teenage_Dream"/>
+    <song:duration>208000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>69</song:popularity>
+    <song:title>E.T. - feat. Kanye West</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Yeah">
+    <song:listners>125174</song:listners>
+    <song:play_count>639539</song:play_count>
+    <song:genre>R&amp;B</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Usher"/>
+    <song:popularity>79</song:popularity>
+    <song:title>Yeah</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/...Ready_For_It?">
+    <song:genre>Electropop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Reputation"/>
+    <song:duration>208198</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>...Ready For It?</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Locked_Out_Of_Heaven">
+    <song:listners>554399</song:listners>
+    <song:play_count>4539767</song:play_count>
+    <song:genre>Rock</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Unorthodox_Jukebox"/>
+    <song:duration>234000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>78</song:popularity>
+    <song:title>Locked Out Of Heaven</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Lose_Yourself_-_Soundtrack_Version">
+    <song:listners>855609</song:listners>
+    <song:play_count>5403584</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/8_Mile"/>
+    <song:duration>326466</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>77</song:popularity>
+    <song:title>Lose Yourself - Soundtrack Version</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Timber">
+    <song:listners>348127</song:listners>
+    <song:play_count>2551139</song:play_count>
+    <song:genre>Dance pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Meltdown"/>
+    <song:duration>204160</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>74</song:popularity>
+    <song:title>Timber</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Hands_to_myself">
+    <song:listners>164094</song:listners>
+    <song:play_count>1756790</song:play_count>
+    <song:genre>Dance pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Revival"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Salena_Gomez"/>
+    <song:popularity>79</song:popularity>
+    <song:title>Hands to myself</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/&quot;California_Girls_-_feat._Snoop_Dogg&quot;&quot;&quot;">
+    <song:listners>777455</song:listners>
+    <song:play_count>5789626</song:play_count>
+    <song:genre>Disco Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Summer_Days"/>
+    <song:duration>234000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>58</song:popularity>
+    <song:title>"California Girls - feat. Snoop Dogg"""</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Firework">
+    <song:listners>851428</song:listners>
+    <song:play_count>7206015</song:play_count>
+    <song:genre>Dance Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Teenage_Dream"/>
+    <song:duration>227000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>64</song:popularity>
+    <song:title>Firework</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/What_Do_I_Know?">
+    <song:listners>77852</song:listners>
+    <song:play_count>359901</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>237333</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>80</song:popularity>
+    <song:title>What Do I Know?</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Without_Me">
+    <song:listners>713968</song:listners>
+    <song:play_count>3761838</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/The_Eminem_Show"/>
+    <song:duration>290226</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>75</song:popularity>
+    <song:title>Without Me</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Como_Yo_Le_Doy_-_Spanglish_Version">
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Dale"/>
+    <song:duration>262706</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>66</song:popularity>
+    <song:title>Como Yo Le Doy - Spanglish Version</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/I&apos;ll_show_you">
+    <song:listners>123267</song:listners>
+    <song:play_count>750549</song:play_count>
+    <song:genre>EDM</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration>200000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>65</song:popularity>
+    <song:title>I'll show you</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Thinking_Out_Loud">
+    <song:listners>462613</song:listners>
+    <song:play_count>4475294</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/X"/>
+    <song:duration>281560</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>66</song:popularity>
+    <song:title>Thinking Out Loud</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Earned_it">
+    <song:listners>175689</song:listners>
+    <song:play_count>816323</song:play_count>
+    <song:genre>R&amp;B</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/50_shades_of_gray"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/The_Weeknd"/>
+    <song:popularity>80</song:popularity>
+    <song:title>Earned it</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/What_do_you_Mean?">
+    <song:listners>287810</song:listners>
+    <song:play_count>2806152</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Purpose"/>
+    <song:duration>204000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <song:popularity>72</song:popularity>
+    <song:title>What do you Mean?</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Perm">
+    <song:listners>41817</song:listners>
+    <song:play_count>187496</song:play_count>
+    <song:genre>Soul</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/24K_Magic"/>
+    <song:duration>210000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <song:popularity>73</song:popularity>
+    <song:title>Perm</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Swish_Swish">
+    <song:listners>91178</song:listners>
+    <song:play_count>1082144</song:play_count>
+    <song:genre>Hip Hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Witness"/>
+    <song:duration>242000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>76</song:popularity>
+    <song:title>Swish Swish</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Remedy">
+    <song:listners>95515</song:listners>
+    <song:play_count>573703</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/25"/>
+    <song:duration>245000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <song:popularity>66</song:popularity>
+    <song:title>Remedy</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Love_The_Way_You_Lie">
+    <song:listners>521248</song:listners>
+    <song:play_count>3748516</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Recovery"/>
+    <song:duration>263373</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>73</song:popularity>
+    <song:title>Love The Way You Lie</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Fireball">
+    <song:listners>111812</song:listners>
+    <song:play_count>508545</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Globalization"/>
+    <song:duration>236200</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>64</song:popularity>
+    <song:title>Fireball</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Feel_This_Moment">
+    <song:listners>168763</song:listners>
+    <song:play_count>855976</song:play_count>
+    <song:genre>Electronic</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Global_Warming"/>
+    <song:duration>229506</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>68</song:popularity>
+    <song:title>Feel This Moment</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/The_Real_Slim_Shady">
+    <song:listners>698759</song:listners>
+    <song:play_count>3300803</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/The_Marshall_Mathers_LP_2"/>
+    <song:duration>284200</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>72</song:popularity>
+    <song:title>The Real Slim Shady</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/There_goes_my_baby">
+    <song:listners>174725</song:listners>
+    <song:play_count>587971</song:play_count>
+    <song:genre>R &amp; B</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Raymond_v_Raymond"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Usher"/>
+    <song:popularity>80</song:popularity>
+    <song:title>There goes my baby</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Style">
+    <song:listners>155442</song:listners>
+    <song:play_count>3020324</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/1989"/>
+    <song:duration>231000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Style</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Come_and_get_it">
+    <song:listners>248629</song:listners>
+    <song:play_count>2588527</song:play_count>
+    <song:genre>Electro Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Stars_Dance"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Salena_Gomez"/>
+    <song:popularity>86</song:popularity>
+    <song:title>Come and get it</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/The_One_That_Got_Away_-_Acoustic">
+    <song:listners>449322</song:listners>
+    <song:play_count>3871276</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Teenage_Dream"/>
+    <song:duration>227000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>70</song:popularity>
+    <song:title>The One That Got Away - Acoustic</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Greenlight">
+    <song:listners>25516</song:listners>
+    <song:play_count>68950</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Climate_Change"/>
+    <song:duration>245360</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>57</song:popularity>
+    <song:title>Greenlight</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Dark_Horse">
+    <song:listners>401916</song:listners>
+    <song:play_count>3184396</song:play_count>
+    <song:genre>Hip Hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Prism"/>
+    <song:duration>215000</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <song:popularity>70</song:popularity>
+    <song:title>Dark Horse</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/We_Found_love">
+    <song:listners>7008266</song:listners>
+    <song:play_count>7446529</song:play_count>
+    <song:genre>Electro house</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Talk_that_talk"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Rihanna"/>
+    <song:popularity>74</song:popularity>
+    <song:title>We Found love</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Por_Favor_-_Spanglish_Version">
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Single"/>
+    <song:duration>198911</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <song:popularity>60</song:popularity>
+    <song:title>Por Favor - Spanglish Version</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/I_Knew_You_Were_Trouble.">
+    <song:listners>127060</song:listners>
+    <song:play_count>1444076</song:play_count>
+    <song:genre>Electropop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Red"/>
+    <song:duration>217973</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>I Knew You Were Trouble.</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Wildest_Dreams">
+    <song:listners>136652</song:listners>
+    <song:play_count>2063349</song:play_count>
+    <song:genre>Dream pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/1989"/>
+    <song:duration>220440</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Wildest Dreams</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Call_It_What_You_Want">
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Reputation"/>
+    <song:duration>203506</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <song:popularity></song:popularity>
+    <song:title>Call It What You Want</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/Galway_Girl">
+    <song:listners>139437</song:listners>
+    <song:play_count>1057068</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/Divide"/>
+    <song:duration>170826</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <song:popularity>87</song:popularity>
+    <song:title>Galway Girl</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/The_heart_wants_what_it_wants">
+    <song:listners>163405</song:listners>
+    <song:play_count>1700567</song:play_count>
+    <song:genre>Pop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/For_you"/>
+    <song:duration></song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Salena_Gomez"/>
+    <song:popularity>78</song:popularity>
+    <song:title>The heart wants what it wants</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/song/The_Monster">
+    <song:listners>342501</song:listners>
+    <song:play_count>2245745</song:play_count>
+    <song:genre>Hip hop</song:genre>
+    <song:album rdf:resource="http://myMusic.org/music/album/The_Marshall_Mathers_LP_2"/>
+    <song:duration>250188</song:duration>
+    <song:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <song:popularity>71</song:popularity>
+    <song:title>The Monster</song:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Def_Jam">
+    <label:label-code>8427</label:label-code>
+    <label:life-span_begin>1984</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Def Jam</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/SRP">
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>SRP</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/RCA">
+    <label:label-code>316</label:label-code>
+    <label:life-span_begin>10/3/01</label:life-span_begin>
+    <label:disambiguation>RCA Records: simple �RCA� or 'RCA' with lightning bolt in circle</label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>RCA</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Island">
+    <label:label-code>407</label:label-code>
+    <label:life-span_begin>1959</label:life-span_begin>
+    <label:disambiguation>imprint of Island Records a division of Universal Music Group</label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>[Worldwide]</label:area_name>
+    <label:country>XW</label:country>
+    <label:name>Island</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Columbia">
+    <label:label-code>162</label:label-code>
+    <label:life-span_begin>1893-05-01</label:life-span_begin>
+    <label:disambiguation>
+      <rdf:Bag>
+        <rdf:li>imprint owned by CBS between 1938_1990 within US/CA/MX</rdf:li>
+        <rdf:li>owned worldwide by Sony Music Entertainment since 1991 except in JP</rdf:li>
+      </rdf:Bag>
+    </label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Columbia</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Republic">
+    <label:life-span_begin>1995</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Republic</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Aftermath">
+    <label:label-code>6406</label:label-code>
+    <label:life-span_begin>1996</label:life-span_begin>
+    <label:disambiguation>US rap</label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Aftermath</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Jive">
+    <label:label-code>7925</label:label-code>
+    <label:life-span_begin>1981</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Jive</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/XL">
+    <label:label-code>5667</label:label-code>
+    <label:life-span_begin>1989</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United Kingdom</label:area_name>
+    <label:country>GB</label:country>
+    <label:name>XL</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Hollywood">
+    <label:type>Reissue Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Hollywood</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/LaFace">
+    <label:label-code>13517</label:label-code>
+    <label:life-span_begin>1989</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>LaFace</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Bassmint">
+    <label:label-code>3456</label:label-code>
+    <label:life-span_begin>1984</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>CDs</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Bassmint</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Arista">
+    <label:label-code>3484</label:label-code>
+    <label:life-span_begin>1974</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Arista</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Big_Machine">
+    <label:label-code></label:label-code>
+    <label:life-span_begin>2005</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Big Machine</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Shady">
+    <label:label-code></label:label-code>
+    <label:life-span_begin>2000</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Shady</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/School_Boy">
+    <label:label-code>6534</label:label-code>
+    <label:life-span_begin>2007</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>[Worldwide]</label:area_name>
+    <label:country>XW</label:country>
+    <label:name>School Boy</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/TVT">
+    <label:label-code></label:label-code>
+    <label:life-span_begin></label:life-span_begin>
+    <label:disambiguation>copyright holder no releases here please</label:disambiguation>
+    <label:type>Holding</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>TVT</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Asylum">
+    <label:label-code>2648</label:label-code>
+    <label:life-span_begin>1971</label:life-span_begin>
+    <label:disambiguation>US Warner Bros subsidiary was rock/folk now mostly hip-hop</label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Asylum</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Sony_Legacy">
+    <label:type>Publisher</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Sony Legacy</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/XO">
+    <label:life-span_begin>2012</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>Toronto</label:area_name>
+    <label:country>CA</label:country>
+    <label:name>XO</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/RBMG">
+    <label:life-span_begin>2008</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Production and Promotion</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>RBMG</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Capitol">
+    <label:label-code>148</label:label-code>
+    <label:life-span_begin>4/9/42</label:life-span_begin>
+    <label:disambiguation>imprint of Capitol Records Inc.</label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>[Worldwide]</label:area_name>
+    <label:country>XW</label:country>
+    <label:name>Capitol</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Elektra">
+    <label:label-code>192</label:label-code>
+    <label:life-span_begin>1950</label:life-span_begin>
+    <label:disambiguation>1950_1989 revived 2009_06-01 read annotations before use</label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Elektra</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/UMG">
+    <label:life-span_begin>1998</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Holding</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>UMG</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Java">
+    <label:label-code>5674</label:label-code>
+    <label:life-span_begin>1963</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Java</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Polo_Grounds">
+    <label:label-code></label:label-code>
+    <label:life-span_begin>2006</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Polo Grounds</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Roc_Nation">
+    <label:life-span_begin>2009</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Publisher</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Roc Nation</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Bad_Boy">
+    <label:label-code></label:label-code>
+    <label:life-span_begin>1991</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Bad Boy</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Interscope">
+    <label:label-code>6406</label:label-code>
+    <label:life-span_begin>1990</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Interscope</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Westbury_Road">
+    <label:life-span_begin>2004</label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Westbury Road</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Red_Hill">
+    <label:label-code></label:label-code>
+    <label:life-span_begin></label:life-span_begin>
+    <label:disambiguation></label:disambiguation>
+    <label:type>Original Production</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Red Hill</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/label/Atlantic">
+    <label:label-code>121</label:label-code>
+    <label:life-span_begin>1947</label:life-span_begin>
+    <label:disambiguation>Warner Music imprint</label:disambiguation>
+    <label:type>Imprint</label:type>
+    <label:area_name>United States</label:area_name>
+    <label:country>US</label:country>
+    <label:name>Atlantic</label:name>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Toronto">
+    <location:country>United States</location:country>
+    <location:country>Canada</location:country>
+    <location:state>Ontario</location:state>
+    <location:city>Toronto</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Omaha">
+    <location:country>United States</location:country>
+    <location:state>Nebraska</location:state>
+    <location:city>Omaha</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/St._Joseph">
+    <location:country>United States</location:country>
+    <location:state>Missouri</location:state>
+    <location:city>St. Joseph</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Framlingham">
+    <location:country>England</location:country>
+    <location:state>Suffolk</location:state>
+    <location:city>Framlingham</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Houston">
+    <location:country>United States</location:country>
+    <location:state>Texas</location:state>
+    <location:city>Houston</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Manchester">
+    <location:country>United Kingdom</location:country>
+    <location:state>London</location:state>
+    <location:city>Manchester</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/East_Rutherford">
+    <location:country>United States</location:country>
+    <location:state>New Jersey</location:state>
+    <location:city>East Rutherford</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Detroit">
+    <location:country>United States</location:country>
+    <location:state>Michigan</location:state>
+    <location:city>Detroit</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Las_Vegas">
+    <location:country>United States</location:country>
+    <location:state>Nevada</location:state>
+    <location:city>Las Vegas</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Atlanta">
+    <location:country>United States</location:country>
+    <location:state>Georgia</location:state>
+    <location:city>Atlanta</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Kansas_City">
+    <location:country>United States</location:country>
+    <location:state>Missouri</location:state>
+    <location:city>Kansas City</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Indianapolis">
+    <location:country>United States</location:country>
+    <location:state>Indiana</location:state>
+    <location:city>Indianapolis</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Washington">
+    <location:country>United States</location:country>
+    <location:state>District of Columbia</location:state>
+    <location:city>Washington</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Encino">
+    <location:country>United States</location:country>
+    <location:state>Los Angeles</location:state>
+    <location:city>Encino</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/St._Louis">
+    <location:country>United States</location:country>
+    <location:state>Missouri</location:state>
+    <location:city>St. Louis</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Dallas">
+    <location:country>United States</location:country>
+    <location:state>Texas</location:state>
+    <location:city>Dallas</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Salt_Lake_City">
+    <location:country>United States</location:country>
+    <location:state>Utah</location:state>
+    <location:city>Salt Lake City</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Seattle">
+    <location:country>United States</location:country>
+    <location:state>Washington</location:state>
+    <location:city>Seattle</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Arlington">
+    <location:country>United States</location:country>
+    <location:state>Texas</location:state>
+    <location:city>Arlington</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Miami">
+    <location:country>United States</location:country>
+    <location:state>Florida</location:state>
+    <location:city>Miami</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Manhattan">
+    <location:country>United States</location:country>
+    <location:state>New York</location:state>
+    <location:city>Manhattan</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Honolulu">
+    <location:country>United States</location:country>
+    <location:state>Hawaii</location:state>
+    <location:city>Honolulu</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Tottenham">
+    <location:country>United Kingdom</location:country>
+    <location:state>London</location:state>
+    <location:city>Tottenham</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Pasadena">
+    <location:country>United States</location:country>
+    <location:state>California</location:state>
+    <location:city>Pasadena</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/London">
+    <location:country>Canada</location:country>
+    <location:state>Ontario</location:state>
+    <location:city>London</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Louisville">
+    <location:country>United States</location:country>
+    <location:state>Kentucky</location:state>
+    <location:city>Louisville</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Minneapolis">
+    <location:country>United States</location:country>
+    <location:state>Minnesota</location:state>
+    <location:city>Minneapolis</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Pittsburgh">
+    <location:country>United States</location:country>
+    <location:state>Pennsylvania</location:state>
+    <location:city>Pittsburgh</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Foxborough">
+    <location:country>United States</location:country>
+    <location:state>Massachusetts</location:state>
+    <location:city>Foxborough</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Chicago">
+    <location:country>United States</location:country>
+    <location:state>Illinois</location:state>
+    <location:city>Chicago</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/New_Orleans">
+    <location:country>United States</location:country>
+    <location:state>Louisiana</location:state>
+    <location:city>New Orleans</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Reading">
+    <location:country>United States</location:country>
+    <location:state>Pennsylvania</location:state>
+    <location:city>Reading</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Halifax">
+    <location:country>United Kingdom</location:country>
+    <location:state>West Yorkshire</location:state>
+    <location:city>Halifax</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Scarborough">
+    <location:country>United States</location:country>
+    <location:state>Toronto</location:state>
+    <location:city>Scarborough</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Denver">
+    <location:country>United States</location:country>
+    <location:state>Colorado</location:state>
+    <location:city>Denver</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/New_York">
+    <location:country>United States</location:country>
+    <location:state>New York</location:state>
+    <location:city>New York</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Saint_Paul">
+    <location:country>United States</location:country>
+    <location:state>Minnesota</location:state>
+    <location:city>Saint Paul</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Santa_Barbara">
+    <location:country>United States</location:country>
+    <location:state>California</location:state>
+    <location:city>Santa Barbara</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Saint_Michael">
+    <location:country>United States</location:country>
+    <location:state>Minnesota</location:state>
+    <location:city>Saint Michael</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Glendale">
+    <location:country>United States</location:country>
+    <location:state>Arizona</location:state>
+    <location:city>Glendale</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Tampa">
+    <location:country>United States</location:country>
+    <location:state>Florida</location:state>
+    <location:city>Tampa</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Milwaukee">
+    <location:country>United States</location:country>
+    <location:state>Wisconsin</location:state>
+    <location:city>Milwaukee</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Santa_Clara">
+    <location:country>United States</location:country>
+    <location:state>California</location:state>
+    <location:city>Santa Clara</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Inglewood">
+    <location:country>United States</location:country>
+    <location:state>California</location:state>
+    <location:city>Inglewood</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Grand_Prairie">
+    <location:country>United States</location:country>
+    <location:state>Texas</location:state>
+    <location:city>Grand Prairie</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/San_Jose">
+    <location:country>United States</location:country>
+    <location:state>California</location:state>
+    <location:city>San Jose</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Columbus">
+    <location:country>United States</location:country>
+    <location:state>Ohio</location:state>
+    <location:city>Columbus</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Nashville">
+    <location:country>United States</location:country>
+    <location:state>Tennessee</location:state>
+    <location:city>Nashville</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/National_Harbour">
+    <location:country>United States</location:country>
+    <location:state>Maryland</location:state>
+    <location:city>National Harbour</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Philadelphia">
+    <location:country>United States</location:country>
+    <location:state>Pennsylvania</location:state>
+    <location:city>Philadelphia</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Los_Angeles">
+    <location:country>United States</location:country>
+    <location:state>California</location:state>
+    <location:city>Los Angeles</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Tulsa">
+    <location:country>United States</location:country>
+    <location:state>Oklahoma</location:state>
+    <location:city>Tulsa</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/location/Cleveland">
+    <location:country>United States</location:country>
+    <location:state>Ohio</location:state>
+    <location:city>Cleveland</location:city>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_30">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/San_Jose"/>
+    <event:arena>SAP Center</event:arena>
+    <event:date>2-Dec-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_30</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_42">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/San_Jose"/>
+    <event:arena>SAP Center</event:arena>
+    <event:date>14-Nov-17</event:date>
+    <event:name>Katy Perry : Witness the tour</event:name>
+    <event:id>event_42</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_50">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Selena_Gomez"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Milwaukee"/>
+    <event:arena>American Family Insurance Amphitheater</event:arena>
+    <event:date>29-June-18</event:date>
+    <event:name>Summerfest 2018</event:name>
+    <event:id>event_50</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_34">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Philadelphia"/>
+    <event:arena>Lincoln Financial Field</event:arena>
+    <event:date>27-Sep-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_34</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_46">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Saint_Paul"/>
+    <event:arena>Xcel Energy Center</event:arena>
+    <event:date>1-Dec-17</event:date>
+    <event:name>Katy Perry : Witness the tour</event:name>
+    <event:id>event_46</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_10">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Philadelphia"/>
+    <event:arena>Lincoln Financial Field</event:arena>
+    <event:date>14-Jul-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_10</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_22">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Kansas_City"/>
+    <event:arena>Arrowhead Stadium</event:arena>
+    <event:date>8-Sep-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_22</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_38">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Las_Vegas"/>
+    <event:arena>Park Theatre at Monte Carlo</event:arena>
+    <event:date>31-Dec-17</event:date>
+    <event:name>THE 24K MAGIC_WORLD TOUR</event:name>
+    <event:id>event_38</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_9">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Washington"/>
+    <event:arena>FedExField</event:arena>
+    <event:date>10-Jul-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_9</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_14">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Toronto"/>
+    <event:arena>Rogers Centre</event:arena>
+    <event:date>4-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_14</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_26">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Houston"/>
+    <event:arena>NRG Stadium</event:arena>
+    <event:date>29-Sep-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_26</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_18">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Miami"/>
+    <event:arena>Hard Rock Stadium</event:arena>
+    <event:date>18-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_18</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_4">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Seattle"/>
+    <event:arena>CenturyLink Field</event:arena>
+    <event:date>22-May-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_4</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_41">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Las_Vegas"/>
+    <event:arena>Park Theatre at Monte Carlo</event:arena>
+    <event:date>17-Feb-17</event:date>
+    <event:name>THE 24K MAGIC_WORLD TOUR</event:name>
+    <event:id>event_41</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_45">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Tulsa"/>
+    <event:arena>BOK  Center</event:arena>
+    <event:date>29-Nov-17</event:date>
+    <event:name>Katy Perry : Witness the tour</event:name>
+    <event:id>event_45</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_13">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Foxborough"/>
+    <event:arena>Gillette Stadium</event:arena>
+    <event:date>28-Jul-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_13</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_21">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Minneapolis"/>
+    <event:arena>U.S. Bank Stadium</event:arena>
+    <event:date>1-Sep-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_21</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_33">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/St._Louis"/>
+    <event:arena>Busch Stadium</event:arena>
+    <event:date>15-Sep-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_33</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_49">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/The_Weeknd"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Sydney"/>
+    <event:arena>Qudos Bank Arena</event:arena>
+    <event:date>2-Dec-17</event:date>
+    <event:name>The Weeknd Sydney Tickets</event:name>
+    <event:id>event_49</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_8">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Columbus"/>
+    <event:arena>Ohio Stadium</event:arena>
+    <event:date>7-Jul-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_8</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_17">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Tampa"/>
+    <event:arena>Raymond James Stadium</event:arena>
+    <event:date>14-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_17</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_25">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/New_Orleans"/>
+    <event:arena>Mercedes-Benz Superdome</event:arena>
+    <event:date>22-Sep-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_25</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_37">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Las_Vegas"/>
+    <event:arena>Park Theatre at Monte Carlo</event:arena>
+    <event:date>30-Dec-17</event:date>
+    <event:name>THE 24K MAGIC_WORLD TOUR</event:name>
+    <event:id>event_37</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_29">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Pasadena"/>
+    <event:arena>Rose Bowl</event:arena>
+    <event:date>18-Aug-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_29</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_3">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Pasadena"/>
+    <event:arena>Rose Bowl</event:arena>
+    <event:date>19-May-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_3</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_20">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Detroit"/>
+    <event:arena>Ford Field</event:arena>
+    <event:date>28-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_20</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_40">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Las_Vegas"/>
+    <event:arena>Park Theatre at Monte Carlo</event:arena>
+    <event:date>16-Feb-17</event:date>
+    <event:name>THE 24K MAGIC_WORLD TOUR</event:name>
+    <event:id>event_40</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_12">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/East_Rutherford"/>
+    <event:arena>MetLife Stadium</event:arena>
+    <event:date>21-Jul-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_12</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_24">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/St._Louis"/>
+    <event:arena>The Dome at America's Center</event:arena>
+    <event:date>18-Sep-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_24</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_32">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Seattle"/>
+    <event:arena>CenturyLink Field</event:arena>
+    <event:date>25-Aug-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_32</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_44">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Omaha"/>
+    <event:arena>CenturyLink Center Omaha</event:arena>
+    <event:date>28-Nov-17</event:date>
+    <event:name>Katy Perry : Witness the tour</event:name>
+    <event:id>event_44</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_7">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Louisville"/>
+    <event:arena>Papa John's Cardinal Stadium</event:arena>
+    <event:date>30-Jun-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_7</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_16">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Atlanta"/>
+    <event:arena>Mercedes-Benz Stadium</event:arena>
+    <event:date>11-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_16</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_28">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Inglewood"/>
+    <event:arena>The Forum</event:arena>
+    <event:date>1-Dec-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_28</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_36">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/National_Harbour"/>
+    <event:arena>The theatre at MGM</event:arena>
+    <event:date>20-Dec-17</event:date>
+    <event:name>THE 24K MAGIC_WORLD TOUR</event:name>
+    <event:id>event_36</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_48">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/The_Weeknd"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Auckland"/>
+    <event:arena>Spark Arena</event:arena>
+    <event:date>29-Nov-17</event:date>
+    <event:name>The Weeknd Auckland Tickets</event:name>
+    <event:id>event_48</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_2">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Santa_Clara"/>
+    <event:arena>Levi's Stadium</event:arena>
+    <event:date>12-May-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_2</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_6">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Chicago"/>
+    <event:arena>Soldier Field</event:arena>
+    <event:date>2-Jun-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_6</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_31">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/New_York"/>
+    <event:arena>Madison Square Garden</event:arena>
+    <event:date>8-Dec-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_31</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_23">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Indianapolis"/>
+    <event:arena>Lucas Oil Stadium</event:arena>
+    <event:date>15-Sep-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_23</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_35">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Ed_Sheeran"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Kansas_City"/>
+    <event:arena>Arrowhead Stadium</event:arena>
+    <event:date>13-Oct-17</event:date>
+    <event:name>Ed Sheeran: 2018 North American Stadium Tour</event:name>
+    <event:id>event_35</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_43">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Salt_Lake_City"/>
+    <event:arena>Vivint Smart Home Arena</event:arena>
+    <event:date>24-Nov-17</event:date>
+    <event:name>Katy Perry : Witness the tour</event:name>
+    <event:id>event_43</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_11">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Cleveland"/>
+    <event:arena>FirstEnergy Stadium</event:arena>
+    <event:date>17-Jul-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_11</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_27">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Arlington"/>
+    <event:arena>AT&amp;T Stadium</event:arena>
+    <event:date>6-Oct-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_27</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_39">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Bruno_Mars"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Las_Vegas"/>
+    <event:arena>Park Theatre at Monte Carlo</event:arena>
+    <event:date>14-Feb-17</event:date>
+    <event:name>THE 24K MAGIC_WORLD TOUR</event:name>
+    <event:id>event_39</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_47">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Katy_Perry"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Milwaukee"/>
+    <event:arena>BMO Harris Bradley Center</event:arena>
+    <event:date>4-Dec-17</event:date>
+    <event:name>Katy Perry : Witness the tour</event:name>
+    <event:id>event_47</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_15">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Pittsburgh"/>
+    <event:arena>Heinz Field</event:arena>
+    <event:date>7-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_15</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_19">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Nashville"/>
+    <event:arena>Nissan Stadium</event:arena>
+    <event:date>25-Aug-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_19</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_1">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Glendale"/>
+    <event:arena>University of Phoenix Stadium</event:arena>
+    <event:date>8-May-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_1</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/event/event_5">
+    <event:performed_by rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <event:location rdf:resource="http://myMusic.org/music/location/Denver"/>
+    <event:arena>Sports Authority Field at Mile High</event:arena>
+    <event:date>25-May-17</event:date>
+    <event:name>Taylor Swift's reputation Stadium Tour</event:name>
+    <event:id>event_5</event:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_9">
+    <award:year>2015</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Thinking_out_loud"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Ed_Sheren"/>
+    <award:name>Song Of the year</award:name>
+    <award:id>award_9</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_10">
+    <award:year>2012</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Someone_Like_You"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <award:name>Best Short Form Music Video</award:name>
+    <award:id>award_10</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_11">
+    <award:year>2017</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Hello"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Adele"/>
+    <award:name>Song Of the year</award:name>
+    <award:id>award_11</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_1">
+    <award:year>2010</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/White_Horse"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <award:name>Best Country song</award:name>
+    <award:id>award_1</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_2">
+    <award:year>2011</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Mean"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <award:name>Best Country song</award:name>
+    <award:id>award_2</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_3">
+    <award:year>2016</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Bad_Blood"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Taylor_Swift"/>
+    <award:name>Best Music Video</award:name>
+    <award:id>award_3</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_4">
+    <award:year>2012</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Give_Me_Everything"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <award:name>Song Of the year</award:name>
+    <award:id>award_4</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_5">
+    <award:year>2013</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/&quot;Bailando_Por_El_Mundo&quot;&quot;&quot;"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Pitbull"/>
+    <award:name>Song Of the year</award:name>
+    <award:id>award_5</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_6">
+    <award:year>2000</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/My_Name_is"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <award:name>Best Rap Solo Performance</award:name>
+    <award:id>award_6</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_7">
+    <award:year>2001</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/The_Real_Slim_Shady"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <award:name>Best Rap Solo Performance</award:name>
+    <award:id>award_7</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_8">
+    <award:year>2011</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Not_Afraid"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Eminem"/>
+    <award:name>Best Rap Solo Performance</award:name>
+    <award:id>award_8</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_14">
+    <award:year>2011</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/There_goes_my_baby"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Usher"/>
+    <award:name>Best Male R&amp;B Vocal Performance</award:name>
+    <award:id>award_14</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_15">
+    <award:year>2013</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Climax"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Usher"/>
+    <award:name>Best Male R&amp;B Vocal Performance</award:name>
+    <award:id>award_15</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_12">
+    <award:year>2016</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Where_are_you_now?"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Justin_Bieber"/>
+    <award:name>Best Dance Recording</award:name>
+    <award:id>award_12</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_13">
+    <award:year>2016</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Work"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/Rihanna"/>
+    <award:name>Favorite Song Soul</award:name>
+    <award:id>award_13</award:id>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myMusic.org/music/award/award_16">
+    <award:year>2016</award:year>
+    <award:song rdf:resource="http://myMusic.org/music/song/Earned_it"/>
+    <award:artist rdf:resource="http://myMusic.org/music/artist/The_Weeknd"/>
+    <award:name>Best R&amp;B Performance</award:name>
+    <award:id>award_16</award:id>
+  </rdf:Description>
+</rdf:RDF>
